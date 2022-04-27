@@ -1,2 +1,2 @@
-# desafio-do-projeto-Git-Github
+# repositorio do desafio do projeto de git/github da DIO
 repositorio criado para enviar arquivos sobre o curso da DIO
